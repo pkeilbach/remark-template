@@ -1,2 +1,3 @@
 # remark-template
-My personal remark template 
+
+My personal [remark](https://remarkjs.com) template.
